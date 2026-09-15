@@ -1,19 +1,24 @@
 # Hi 👋 I'm Prasad Parakandla
 
-## Embedded Software Engineer | Automotive CI/CD Engineer
+## Automotive CI/CD Engineer | Embedded Software Engineer
 
-Automotive Software Engineer with ~7 years of experience in Embedded Software Development, AUTOSAR Integration, BSW Development, Software Integration, and CI/CD activities.
+Experienced Automotive Software Engineer with 7 years of experience in Embedded Software Development, AUTOSAR Integration, BSW Development, Software Integration, and CI/CD activities.
 
-Currently focused on:
+Currently focused on Automotive CI/CD, GitHub Actions, Jenkins, Conan Package Management, Build & Release Engineering, and Software Factory practices.
 
-- Automotive CI/CD
-- GitHub Actions
-- Jenkins
-- Conan Package Management
-- Python Automation
-- Build & Release Engineering
-- Software Factory Concepts
+---
 
+## About Me
+
+- 🚗 7 Years of Automotive Software Experience
+- 🔧 AUTOSAR & BSW Integration Engineer
+- ⚙️ CI/CD Enthusiast
+- 🐍 Python Automation
+- 🔄 GitHub Actions & Jenkins
+- 📦 Conan Package Management
+- 🧪 Build Validation & Root Cause Analysis
+- 📋 ASPICE SWE2 / SWE3 / SWE4 / SWE5
+- 🛡️ ISO 26262 & Automotive Cybersecurity Awareness
 ---
 
 ## Technical Skills
@@ -60,46 +65,54 @@ Currently focused on:
 ## Professional Experience
 
 ### Bosch Global Software Technologies
-Senior Engineer | Aug 2022 - Present
+**Senior Engineer | Aug 2022 - Present**
 
-- BSW Integration and CI/CD activities for Brakes ECU programs
-- Jenkins Main, Weekly, and Nightly build monitoring
-- GitHub workflow automation
-- Conan package integration and validation
-- Root cause analysis of build and integration issues
+#### Base Software Integration & CI/CD Activities
+
+- BSW Integration for Brakes ECU programs.
+- Monitored Jenkins Main, Weekly, and Nightly CI/CD pipelines.
+- Investigated build failures and analyzed integration issues.
+- Worked with GitHub workflows and automation activities.
+- Supported Conan package integration and release validation.
+
+#### Communication Bus Abstraction Development
+
+- Developed AUTOSAR Communication Bus Abstraction components.
+- Implemented CAN message handling for EPS ECU platforms.
+- Performed Unit Testing, CIT Testing, SIL Testing, and Regression Validation.
 
 ### Tata Elxsi
-Senior Engineer | Feb 2021 - Jun 2022
 
-- AUTOSAR SWC Development for ADAS Camera Platforms
-- ASPICE Software Development Lifecycle
-- Software Verification and Validation
+**Senior Engineer | Feb 2021 - Jun 2022**
 
-### Visteon Automotive
-Software Engineer | Aug 2019 - Jan 2021
+- Developed AUTOSAR SWCs for ADAS Camera platforms.
+- Performed design, implementation, testing, and verification activities.
 
-- Functional Safety Software Development
-- EEPROM Triple Buffer Implementation
-- ISO 26262 Software Development Activities
+### Visteon Automotive (via Zi Logic Systems)
+
+**Software Engineer | Aug 2019 - Jan 2021**
+
+- Developed Functional Safety Software for Automotive Cluster ECU.
+- Implemented EEPROM Triple Buffer Protection Mechanism.
+- Supported ISO 26262 software development activities.
 
 ---
 
-## Awards & Recognition
+## Key Achievements
 
-🏆 Bravo Award (Jul 2026)
+🏆 **Bravo Award - Bosch (2026)**
 
 Successfully handled CUBAS Integration with MTC changes and managed integration complexity.
 
-🏆 Bravo Award (Nov 2025)
+🏆 **Bravo Award - Bosch (2025)**
 
-Developed GitHub Workflow Automation for stale Pull Request management.
+Developed GitHub Workflow Automation for stale Pull Request management and productivity improvement.
 
-🏆 SHABASH Appreciation (Dec 2024)
+🏆 **SHABASH Appreciation - Bosch (2024)**
 
-Recognized for quality-focused software reviews and engineering excellence.
+Recognized for quality-focused software artifacts reviews and engineering contributions.
 
 ---
-
 ## Featured Projects
 
 ### Stale PR Automation
@@ -139,3 +152,11 @@ Seeking opportunities as:
 - Software Integration Engineer
 
 with focus on Automotive Software and Software Defined Vehicle (SDV) ecosystems.
+---
+## Connect With Me
+
+📧 parakandla.emb@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/prasad-eswar-b33a9a124
+
+🚀 Always learning, automating, and improving Automotive Software Delivery.
